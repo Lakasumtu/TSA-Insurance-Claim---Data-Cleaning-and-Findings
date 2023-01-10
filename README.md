@@ -1,4 +1,4 @@
-# TSA-Insurance-Claim---Data-Cleaning-and-Findings
+
 <a name="readme-top"></a>
 
 
@@ -16,10 +16,10 @@
 
 
 
-<h3 align="center">Capstone 1 - Data Internal Karyawan</h3>
+<h3 align="center">Capstone 2 - Cleaning Data & Findings</h3>
 
   <p align="center">
-    Sebuah program sederhana untuk melihat dan mengubah data internal karyawan perusahaan
+    Sebuah program sederhana untuk melakukan cleaning data
     <br />
     <a href=https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan><strong>Explore the docs »</strong></a>
     <br />
@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project ini merupakan sebuah syarat dalam menyelesaikan modul 1 dari program bootcamp di Purwadhika.
+Project ini merupakan sebuah syarat dalam menyelesaikan modul 2 dari program bootcamp di Purwadhika.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,20 +54,17 @@ Project ini merupakan sebuah syarat dalam menyelesaikan modul 1 dari program boo
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Dalam program ini terdapat beberapa contoh data karyawan yang telah terinput sejak awal (by default).
-User dapat menghapus data awal dengan fitur yang sudah tersedia.
+Pada program ini terdapat beberapa pengolahan data dan rekomendasi bisnis
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Dalam program ini terdapat 5 menu utama yaitu:
-1. Menampilkan data
-2. Menambah data
-3. Mengubah data
-4. Menghapus data
-5. Keluar dari program
+Dalam program ini terdapat 3 langkah utama yaitu:
+1. Data Understanding
+2. Data Cleaning
+3. Data Findings
 
 
 
