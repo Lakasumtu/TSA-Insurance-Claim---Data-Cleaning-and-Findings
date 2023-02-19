@@ -64,6 +64,7 @@ The analysis revealed the following insights:
 Based on the results of the analysis, we recommend that the TSA focus on regulating electronic devices and pay extra attention to claims related to firearms, explosives, and knives. Furthermore, the random forest model can be used to predict claim approval with a relatively high accuracy and can be integrated into the TSA's claims approval process.
 
 ## Future Work
+Modelling
 
 ## Contact
 
