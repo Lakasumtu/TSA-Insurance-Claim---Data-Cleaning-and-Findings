@@ -67,7 +67,7 @@ Based on the results of the analysis, we recommend that the TSA focus on regulat
 
 ## Contact
 
-If you have any questions or feedback, please don't hesitate to contact us at yoshiando@gmail.com.
+If you have any questions or feedback, please don't hesitate to contact us at information below.
 
 
 
@@ -83,25 +83,7 @@ If you have any questions or feedback, please don't hesitate to contact us at yo
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
 
-Pada program ini terdapat beberapa pengolahan data dan rekomendasi bisnis
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Dalam program ini terdapat 3 langkah utama yaitu:
-1. Data Understanding
-2. Data Cleaning
-3. Data Findings
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
