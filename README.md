@@ -16,7 +16,7 @@
 
 
 
-<h3 align="center">Capstone 2 - Cleaning Data & Findings</h3>
+<h3 align="center">Data Cleaning & Findings</h3>
 
   <p align="center">
     Sebuah program sederhana untuk melakukan cleaning data
