@@ -37,7 +37,39 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project ini merupakan sebuah syarat dalam menyelesaikan modul 2 dari program bootcamp di Purwadhika.
+# TSA Insurance Claims Analysis
+
+This project aims to help the Transportation Security Administration (TSA) to determine which items are most frequently claimed in their insurance dataset and identify any potential sensitivity to regulation.
+
+## Dataset
+
+The dataset used for this analysis is the [TSA Claims Database](https://www.kaggle.com/terminal-security-agency/tsa-claims-database) from Kaggle, which contains information on insurance claims made to the TSA from 2002 to 2014.
+
+## Analysis
+
+The main analysis performed in this project includes:
+
+- Exploratory data analysis to understand the characteristics of the dataset
+- Data cleaning and preprocessing to prepare the dataset
+
+## Results
+
+The analysis revealed the following insights:
+
+- One of the most commonly claimed items were electronic devices such as laptops and cellphones
+- Claims related to firearms, explosives, and knives were the most likely to be denied
+
+## Conclusion
+
+Based on the results of the analysis, we recommend that the TSA focus on regulating electronic devices and pay extra attention to claims related to firearms, explosives, and knives. Furthermore, the random forest model can be used to predict claim approval with a relatively high accuracy and can be integrated into the TSA's claims approval process.
+
+## Future Work
+
+## Contact
+
+If you have any questions or feedback, please don't hesitate to contact us at yoshiando@gmail.com.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
